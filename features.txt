@@ -1,0 +1,9 @@
+features -
+
+1.Tourism home page
+2.Can see the tourist sposts in BD with Google maps
+3.Can see the most interest sites which choosen by people
+4.Can see the package
+5.Can register in website
+6.Admin can access all the area of website
+7.Admin can edit(update/delete) package list which is implement with PHP and MySQL
